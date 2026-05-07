@@ -1,4 +1,4 @@
-# Zorvyn Finance Dashboard Backend
+#  Finance Dashboard Backend
 
 ## 📌 Overview
 
